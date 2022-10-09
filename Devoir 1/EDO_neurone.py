@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import const as c
 
 global I_app
-I_app=1
+I_app=100
 global V_0
 V_0=-40
 global N_0
